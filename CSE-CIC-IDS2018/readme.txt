@@ -1,0 +1,10 @@
+一、准备数据（MachineLearningCSV）
+1.运行data_preprocess.py
+2.运行merge.py
+3.删除benign1.csv,benign21.csv文件，然后将文件名末尾的的1去掉，得到处理后的文件夹split_csv_new
+4.运行Preproecess/make_dataset.py
+5.运行get_data.py
+二、主程序
+1.运行main_anomaly.py
+2.运行main.py,进行训练与测试
+3.运行plot画图

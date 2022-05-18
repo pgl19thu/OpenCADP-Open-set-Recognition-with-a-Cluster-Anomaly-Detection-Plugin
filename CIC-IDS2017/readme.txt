@@ -1,0 +1,9 @@
+一、准备数据（MachineLearningCSV）
+1.运行data_preprocess.py
+2.运行Preproecess/make_dataset.py
+3.运行get_data.py
+二、主程序
+1.运行main_anomaly_all.py
+2.运行main.py,进行训练与测试
+3.运行plot.py画图
+4.运行main_correlation计算简单例子
